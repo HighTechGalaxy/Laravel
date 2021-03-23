@@ -1,0 +1,7 @@
+#USING COMMAND LINE CLI / COMMAND PROMPT TO FIND LARAVEL VERSION
+
+php artisan --version
+
+#USING COMMAND LINE CLI / COMMAND PROMPT TO CREATE CONTROLLER
+
+php artisan make:controller ProvisionServer
